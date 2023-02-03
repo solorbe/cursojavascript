@@ -271,7 +271,7 @@ body {
   font-size: var(--sm);
   margin-top: 0;
   margin-bottom: 0;
-  color: var(--very-light-pink);
+  color: var(--very-light-pink)}
 
 @media (max-width: 640px) {
   .menu {
