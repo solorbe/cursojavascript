@@ -159,10 +159,11 @@ nav {
 aside {
   background-color: var (--white);
   width: 360px;
-    box-sizing: border-box;
+  box-sizing: border-box;
   position: absolute;
   right: 0;
 }
+
 /* shopping Car */
 #shoppingCardContainer {
   padding: 0 24px;
